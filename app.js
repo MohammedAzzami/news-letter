@@ -8,7 +8,6 @@ const app = express();
 
 app.use(bodyParser.urlencoded({extended: true}));
 
-//* make sure to require (path module) and type the next code *//
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.get("/", function (req, res) {
