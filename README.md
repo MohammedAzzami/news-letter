@@ -4,7 +4,7 @@ This is a newsletter sign-up web application built as part of my portfolio to sh
 
 ## View the Project
 
-You can view the live project here: [Newsletter Sign-Up Project on Vercel](https://vercel.live/link/newsletter-g1amdlfha-mohammed-alazamis-projects.vercel.app?via=deployment-domains-list-commit)
+You can view the live project here: [Newsletter Sign-Up Project on Vercel](https://vercel.live/link/newsletter-j4c3en8kz-mohammed-alazamis-projects.vercel.app?via=deployment-domains-list-commit)
 
 ## About
 
