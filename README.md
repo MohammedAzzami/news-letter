@@ -4,7 +4,7 @@ This is a newsletter sign-up web application built as part of my portfolio to sh
 
 ## View the Project
 
-You can view the live project here: [Newsletter Sign-Up Project on Vercel](https://newsletter-git-master-mohammed-alazamis-projects.vercel.app?_vercel_share=JPWUoe5DugYCeM5EcGJ4gCOvzoCP6wtK)
+You can view the live project here: [Newsletter Sign-Up Project on Vercel](https://newsletter-4u4jdpvxy-mohammed-alazamis-projects.vercel.app/)
 
 
 **Note**: Access to view and interact with the live demo requires logging into Vercel. If you don't have a Vercel account, you'll need to create one to access the application.
